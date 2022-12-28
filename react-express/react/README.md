@@ -1,0 +1,1 @@
+# All the UI front end code in this project has been provided by the course as a template. Fetching the data etc. is a part of the course, the React Components themselves are not.
